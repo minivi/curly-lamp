@@ -4,18 +4,20 @@
     "url": "https://indonesiakaya.com",
     "icon": "https://favicons.githubusercontent.com/indonesiakaya.com",
     "slug": "id-kaya",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3329,
-    "timeDay": 3329,
+    "timeDay": 3342,
     "timeWeek": 3329,
     "timeMonth": 3329,
     "timeYear": 3329,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-01": 0
+    }
   },
   {
     "name": "ip angkasa",
@@ -65,7 +67,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 223,
+    "timeDay": 195,
     "timeWeek": 223,
     "timeMonth": 223,
     "timeYear": 223,
@@ -83,7 +85,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 362,
-    "timeDay": 362,
+    "timeDay": 342,
     "timeWeek": 362,
     "timeMonth": 362,
     "timeYear": 362,
