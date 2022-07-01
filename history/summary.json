@@ -4,19 +4,19 @@
     "url": "https://indonesiakaya.com",
     "icon": "https://favicons.githubusercontent.com/indonesiakaya.com",
     "slug": "id-kaya",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3329,
-    "timeDay": 3342,
-    "timeWeek": 3329,
-    "timeMonth": 3329,
-    "timeYear": 3329,
+    "status": "up",
+    "uptime": "98.98%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
+    "time": 3300,
+    "timeDay": 3278,
+    "timeWeek": 3300,
+    "timeMonth": 3300,
+    "timeYear": 3300,
     "dailyMinutesDown": {
-      "2022-07-01": 0
+      "2022-07-01": 23
     }
   },
   {
