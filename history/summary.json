@@ -4,9 +4,9 @@
     "url": "https://indonesiakaya.com",
     "icon": "https://favicons.githubusercontent.com/indonesiakaya.com",
     "slug": "id-kaya",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 3693,
     "timeYear": 3563,
     "dailyMinutesDown": {
+      "2022-09-05": 0,
       "2022-07-01": 23
     }
   },
