@@ -25,19 +25,19 @@
     "url": "https://ip.angkasa.id",
     "icon": "https://icons.duckduckgo.com/ip3/ip.angkasa.id.ico",
     "slug": "ip-angkasa",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1180,
-    "timeDay": 1323,
-    "timeWeek": 1220,
-    "timeMonth": 1214,
-    "timeYear": 1180,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 1179,
+    "timeDay": 1181,
+    "timeWeek": 1197,
+    "timeMonth": 1208,
+    "timeYear": 1179,
     "dailyMinutesDown": {
-      "2022-10-13": 0
+      "2022-10-13": 27
     }
   },
   {
