@@ -16,7 +16,7 @@
     "timeMonth": 4157,
     "timeYear": 3934,
     "dailyMinutesDown": {
-      "2023-06-16": 1062,
+      "2023-06-16": 1071,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
@@ -182,7 +182,7 @@
     "timeMonth": 1237,
     "timeYear": 1187,
     "dailyMinutesDown": {
-      "2023-06-16": 1063,
+      "2023-06-16": 1071,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
@@ -335,9 +335,9 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "92.90%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "92.32%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.98%",
     "time": 108,
     "timeDay": 71,
@@ -345,7 +345,7 @@
     "timeMonth": 102,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2023-06-16": 102
+      "2023-06-16": 111
     }
   },
   {
@@ -365,7 +365,7 @@
     "timeMonth": 218,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2023-06-16": 1063,
+      "2023-06-16": 1071,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
@@ -515,19 +515,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "down",
+    "status": "up",
     "uptime": "87.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "65.08%",
-    "time": 283,
-    "timeDay": 355,
-    "timeWeek": 325,
-    "timeMonth": 304,
-    "timeYear": 283,
+    "time": 284,
+    "timeDay": 377,
+    "timeWeek": 336,
+    "timeMonth": 307,
+    "timeYear": 284,
     "dailyMinutesDown": {
-      "2023-06-16": 1063,
+      "2023-06-16": 1071,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
