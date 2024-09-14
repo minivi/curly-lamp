@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/indonesiakaya.com.ico",
     "slug": "id-kaya",
     "status": "up",
-    "uptime": "25.93%",
+    "uptime": "25.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 414,
-    "timeDay": 998,
-    "timeWeek": 433,
-    "timeMonth": 234,
+    "timeDay": 1016,
+    "timeWeek": 443,
+    "timeMonth": 237,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2024-09-13": 295,
+      "2024-09-14": 21,
+      "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
@@ -379,8 +380,7 @@
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
-      "2023-09-16": 1440,
-      "2023-09-15": 1440
+      "2023-09-16": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ip.angkasa.id.ico",
     "slug": "ip-angkasa",
     "status": "up",
-    "uptime": "25.95%",
+    "uptime": "25.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1255,
-    "timeDay": 1334,
-    "timeWeek": 1199,
-    "timeMonth": 1200,
+    "time": 1256,
+    "timeDay": 1329,
+    "timeWeek": 1203,
+    "timeMonth": 1211,
     "timeYear": 1267,
     "dailyMinutesDown": {
-      "2024-09-13": 295,
+      "2024-09-14": 21,
+      "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
@@ -763,8 +764,7 @@
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
-      "2023-09-16": 1440,
-      "2023-09-15": 1440
+      "2023-09-16": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
-    "uptime": "69.59%",
+    "uptime": "69.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 113,
-    "timeDay": 95,
-    "timeWeek": 88,
-    "timeMonth": 114,
+    "timeDay": 105,
+    "timeWeek": 90,
+    "timeMonth": 115,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-09-13": 295,
+      "2024-09-14": 21,
+      "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
@@ -1147,8 +1148,7 @@
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
-      "2023-09-16": 1440,
-      "2023-09-15": 1440
+      "2023-09-16": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
     "status": "up",
-    "uptime": "60.07%",
+    "uptime": "60.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 212,
-    "timeDay": 176,
-    "timeWeek": 218,
-    "timeMonth": 264,
-    "timeYear": 222,
+    "time": 213,
+    "timeDay": 680,
+    "timeWeek": 284,
+    "timeMonth": 285,
+    "timeYear": 224,
     "dailyMinutesDown": {
-      "2024-09-13": 295,
+      "2024-09-14": 21,
+      "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
@@ -1531,8 +1532,7 @@
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
-      "2023-09-16": 1440,
-      "2023-09-15": 1440
+      "2023-09-16": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "61.07%",
+    "uptime": "61.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 294,
-    "timeDay": 375,
+    "time": 295,
+    "timeDay": 404,
     "timeWeek": 288,
-    "timeMonth": 307,
-    "timeYear": 297,
+    "timeMonth": 313,
+    "timeYear": 299,
     "dailyMinutesDown": {
-      "2024-09-13": 295,
+      "2024-09-14": 21,
+      "2024-09-13": 1440,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
@@ -1915,8 +1916,7 @@
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
-      "2023-09-16": 1440,
-      "2023-09-15": 1440
+      "2023-09-16": 1440
     }
   },
   {
