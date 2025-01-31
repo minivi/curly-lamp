@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/indonesiakaya.com.ico",
     "slug": "id-kaya",
     "status": "up",
-    "uptime": "24.40%",
+    "uptime": "24.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "68.75%",
-    "uptimeYear": "5.61%",
-    "time": 1286,
-    "timeDay": 1030,
-    "timeWeek": 1076,
-    "timeMonth": 1431,
-    "timeYear": 1648,
+    "uptimeMonth": "72.04%",
+    "uptimeYear": "5.89%",
+    "time": 1288,
+    "timeDay": 993,
+    "timeWeek": 1055,
+    "timeMonth": 1437,
+    "timeYear": 1651,
     "dailyMinutesDown": {
       "2025-01-27": 19,
       "2025-01-08": 732,
@@ -358,8 +358,7 @@
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
-      "2024-02-02": 1440,
-      "2024-02-01": 1440
+      "2024-02-02": 1440
     }
   },
   {
@@ -368,16 +367,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ip.angkasa.id.ico",
     "slug": "ip-angkasa",
     "status": "up",
-    "uptime": "24.91%",
+    "uptime": "24.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.10%",
-    "uptimeYear": "6.89%",
+    "uptimeMonth": "87.38%",
+    "uptimeYear": "7.17%",
     "time": 1253,
-    "timeDay": 1200,
-    "timeWeek": 1209,
-    "timeMonth": 1241,
-    "timeYear": 1259,
+    "timeDay": 1241,
+    "timeWeek": 1199,
+    "timeMonth": 1244,
+    "timeYear": 1260,
     "dailyMinutesDown": {
       "2025-01-03": 1229,
       "2025-01-02": 1440,
@@ -715,8 +714,7 @@
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
-      "2024-02-02": 1440,
-      "2024-02-01": 1440
+      "2024-02-02": 1440
     }
   },
   {
@@ -725,18 +723,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
-    "uptime": "63.68%",
+    "uptime": "63.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 108,
-    "timeDay": 233,
-    "timeWeek": 115,
+    "time": 107,
+    "timeDay": 94,
+    "timeWeek": 114,
     "timeMonth": 106,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2025-01-30": 22,
+      "2025-01-31": 23,
+      "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -1099,8 +1098,7 @@
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
-      "2024-02-02": 1440,
-      "2024-02-01": 1440
+      "2024-02-02": 1440
     }
   },
   {
@@ -1109,18 +1107,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
     "status": "up",
-    "uptime": "54.97%",
+    "uptime": "54.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 226,
-    "timeDay": 172,
-    "timeWeek": 123,
-    "timeMonth": 224,
+    "timeDay": 152,
+    "timeWeek": 116,
+    "timeMonth": 218,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-01-30": 22,
+      "2025-01-31": 23,
+      "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -1483,8 +1482,7 @@
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
-      "2024-02-02": 1440,
-      "2024-02-01": 1440
+      "2024-02-02": 1440
     }
   },
   {
@@ -1493,18 +1491,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "55.88%",
+    "uptime": "55.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 304,
-    "timeDay": 277,
-    "timeWeek": 295,
-    "timeMonth": 291,
-    "timeYear": 305,
+    "timeDay": 356,
+    "timeWeek": 291,
+    "timeMonth": 297,
+    "timeYear": 306,
     "dailyMinutesDown": {
-      "2025-01-30": 22,
+      "2025-01-31": 23,
+      "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -1867,8 +1866,7 @@
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
-      "2024-02-02": 1440,
-      "2024-02-01": 1440
+      "2024-02-02": 1440
     }
   },
   {
