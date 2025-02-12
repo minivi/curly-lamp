@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/indonesiakaya.com.ico",
     "slug": "id-kaya",
     "status": "up",
-    "uptime": "25.34%",
+    "uptime": "25.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "8.90%",
-    "time": 1316,
-    "timeDay": 1213,
-    "timeWeek": 1100,
-    "timeMonth": 1549,
-    "timeYear": 1671,
+    "uptimeYear": "9.18%",
+    "time": 1318,
+    "timeDay": 1176,
+    "timeWeek": 1094,
+    "timeMonth": 1556,
+    "timeYear": 1673,
     "dailyMinutesDown": {
       "2025-01-27": 19,
       "2025-01-08": 732,
@@ -346,8 +346,7 @@
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
-      "2024-02-14": 1440,
-      "2024-02-13": 1440
+      "2024-02-14": 1440
     }
   },
   {
@@ -356,15 +355,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ip.angkasa.id.ico",
     "slug": "ip-angkasa",
     "status": "up",
-    "uptime": "25.85%",
+    "uptime": "25.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "10.18%",
+    "uptimeYear": "10.46%",
     "time": 1255,
-    "timeDay": 1270,
-    "timeWeek": 1257,
-    "timeMonth": 1244,
+    "timeDay": 1315,
+    "timeWeek": 1254,
+    "timeMonth": 1247,
     "timeYear": 1260,
     "dailyMinutesDown": {
       "2025-01-03": 1229,
@@ -691,8 +690,7 @@
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
-      "2024-02-14": 1440,
-      "2024-02-13": 1440
+      "2024-02-14": 1440
     }
   },
   {
@@ -701,18 +699,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
-    "uptime": "63.22%",
+    "uptime": "63.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 117,
     "timeDay": 84,
-    "timeWeek": 87,
-    "timeMonth": 266,
+    "timeWeek": 86,
+    "timeMonth": 267,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2025-02-11": 23,
+      "2025-02-12": 23,
+      "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
@@ -1075,8 +1074,7 @@
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
-      "2024-02-14": 1440,
-      "2024-02-13": 1440
+      "2024-02-14": 1440
     }
   },
   {
@@ -1085,18 +1083,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
     "status": "up",
-    "uptime": "54.57%",
+    "uptime": "54.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 227,
-    "timeDay": 102,
-    "timeWeek": 108,
+    "timeDay": 202,
+    "timeWeek": 123,
     "timeMonth": 183,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-02-11": 23,
+      "2025-02-12": 23,
+      "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
@@ -1459,8 +1458,7 @@
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
-      "2024-02-14": 1440,
-      "2024-02-13": 1440
+      "2024-02-14": 1440
     }
   },
   {
@@ -1469,18 +1467,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "55.48%",
+    "uptime": "55.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 307,
-    "timeDay": 407,
-    "timeWeek": 403,
-    "timeMonth": 313,
+    "timeDay": 377,
+    "timeWeek": 384,
+    "timeMonth": 314,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2025-02-11": 23,
+      "2025-02-12": 23,
+      "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
@@ -1843,8 +1842,7 @@
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
-      "2024-02-14": 1440,
-      "2024-02-13": 1440
+      "2024-02-14": 1440
     }
   },
   {
