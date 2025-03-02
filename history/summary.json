@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/indonesiakaya.com.ico",
     "slug": "id-kaya",
     "status": "up",
-    "uptime": "26.72%",
+    "uptime": "26.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "14.11%",
-    "time": 1353,
-    "timeDay": 1136,
-    "timeWeek": 1147,
-    "timeMonth": 1101,
-    "timeYear": 1717,
+    "uptimeYear": "14.38%",
+    "time": 1354,
+    "timeDay": 669,
+    "timeWeek": 1079,
+    "timeMonth": 1089,
+    "timeYear": 1719,
     "dailyMinutesDown": {
       "2025-01-27": 19,
       "2025-01-08": 732,
@@ -328,8 +328,7 @@
       "2024-03-06": 1440,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
-      "2024-03-03": 1440,
-      "2024-03-02": 1440
+      "2024-03-03": 1440
     }
   },
   {
@@ -338,15 +337,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ip.angkasa.id.ico",
     "slug": "ip-angkasa",
     "status": "up",
-    "uptime": "27.22%",
+    "uptime": "27.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "15.39%",
+    "uptimeYear": "15.66%",
     "time": 1260,
-    "timeDay": 1385,
-    "timeWeek": 1364,
-    "timeMonth": 1282,
+    "timeDay": 1313,
+    "timeWeek": 1349,
+    "timeMonth": 1286,
     "timeYear": 1260,
     "dailyMinutesDown": {
       "2025-01-03": 1229,
@@ -655,8 +654,7 @@
       "2024-03-06": 1440,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
-      "2024-03-03": 1440,
-      "2024-03-02": 1440
+      "2024-03-03": 1440
     }
   },
   {
@@ -665,18 +663,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
-    "uptime": "62.53%",
+    "uptime": "62.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 117,
-    "timeDay": 83,
-    "timeWeek": 84,
+    "timeDay": 109,
+    "timeWeek": 87,
     "timeMonth": 280,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2025-03-01": 26,
+      "2025-03-02": 26,
+      "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
@@ -1039,8 +1038,7 @@
       "2024-03-06": 1440,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
-      "2024-03-03": 1440,
-      "2024-03-02": 1440
+      "2024-03-03": 1440
     }
   },
   {
@@ -1049,18 +1047,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
     "status": "up",
-    "uptime": "53.98%",
+    "uptime": "53.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 222,
-    "timeDay": 109,
-    "timeWeek": 85,
-    "timeMonth": 142,
+    "timeDay": 110,
+    "timeWeek": 86,
+    "timeMonth": 120,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-03-01": 26,
+      "2025-03-02": 26,
+      "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
@@ -1423,8 +1422,7 @@
       "2024-03-06": 1440,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
-      "2024-03-03": 1440,
-      "2024-03-02": 1440
+      "2024-03-03": 1440
     }
   },
   {
@@ -1433,18 +1431,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "54.87%",
+    "uptime": "54.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 310,
-    "timeDay": 359,
-    "timeWeek": 414,
-    "timeMonth": 375,
+    "time": 311,
+    "timeDay": 362,
+    "timeWeek": 406,
+    "timeMonth": 376,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2025-03-01": 26,
+      "2025-03-02": 26,
+      "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
@@ -1807,8 +1806,7 @@
       "2024-03-06": 1440,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
-      "2024-03-03": 1440,
-      "2024-03-02": 1440
+      "2024-03-03": 1440
     }
   },
   {
