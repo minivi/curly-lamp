@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/indonesiakaya.com.ico",
     "slug": "id-kaya",
     "status": "up",
-    "uptime": "27.02%",
+    "uptime": "27.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "15.20%",
-    "time": 1364,
-    "timeDay": 1229,
-    "timeWeek": 1054,
-    "timeMonth": 1089,
-    "timeYear": 1724,
+    "uptimeYear": "15.48%",
+    "time": 1365,
+    "timeDay": 1046,
+    "timeWeek": 1042,
+    "timeMonth": 1087,
+    "timeYear": 1726,
     "dailyMinutesDown": {
       "2025-01-27": 19,
       "2025-01-08": 732,
@@ -324,8 +324,7 @@
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
-      "2024-03-07": 1440,
-      "2024-03-06": 1440
+      "2024-03-07": 1440
     }
   },
   {
@@ -334,14 +333,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/ip.angkasa.id.ico",
     "slug": "ip-angkasa",
     "status": "up",
-    "uptime": "27.52%",
+    "uptime": "27.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "16.48%",
+    "uptimeYear": "16.76%",
     "time": 1260,
-    "timeDay": 1367,
-    "timeWeek": 1292,
+    "timeDay": 1233,
+    "timeWeek": 1277,
     "timeMonth": 1287,
     "timeYear": 1260,
     "dailyMinutesDown": {
@@ -647,8 +646,7 @@
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
-      "2024-03-07": 1440,
-      "2024-03-06": 1440
+      "2024-03-07": 1440
     }
   },
   {
@@ -657,18 +655,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
-    "uptime": "62.38%",
+    "uptime": "62.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 117,
-    "timeDay": 105,
-    "timeWeek": 93,
-    "timeMonth": 99,
+    "timeDay": 152,
+    "timeWeek": 102,
+    "timeMonth": 101,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2025-03-05": 24,
+      "2025-03-06": 24,
+      "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -1031,8 +1030,7 @@
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
-      "2024-03-07": 1440,
-      "2024-03-06": 1440
+      "2024-03-07": 1440
     }
   },
   {
@@ -1041,18 +1039,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
     "status": "up",
-    "uptime": "53.85%",
+    "uptime": "53.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 221,
-    "timeDay": 290,
-    "timeWeek": 133,
+    "timeDay": 174,
+    "timeWeek": 143,
     "timeMonth": 111,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-03-05": 24,
+      "2025-03-06": 24,
+      "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -1415,8 +1414,7 @@
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
-      "2024-03-07": 1440,
-      "2024-03-06": 1440
+      "2024-03-07": 1440
     }
   },
   {
@@ -1425,18 +1423,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "54.74%",
+    "uptime": "54.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 311,
-    "timeDay": 436,
-    "timeWeek": 353,
-    "timeMonth": 373,
+    "timeDay": 323,
+    "timeWeek": 342,
+    "timeMonth": 371,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2025-03-05": 24,
+      "2025-03-06": 24,
+      "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -1799,8 +1798,7 @@
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
-      "2024-03-07": 1440,
-      "2024-03-06": 1440
+      "2024-03-07": 1440
     }
   },
   {
