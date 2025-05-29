@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/indonesiakaya.com.ico",
     "slug": "id-kaya",
     "status": "up",
-    "uptime": "32.79%",
+    "uptime": "32.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "38.21%",
-    "time": 1526,
-    "timeDay": 1249,
-    "timeWeek": 1112,
-    "timeMonth": 1047,
-    "timeYear": 1890,
+    "uptimeYear": "38.49%",
+    "time": 1528,
+    "timeDay": 1127,
+    "timeWeek": 1100,
+    "timeMonth": 1049,
+    "timeYear": 1892,
     "dailyMinutesDown": {
       "2025-05-15": 20,
       "2025-01-27": 19,
@@ -241,8 +241,7 @@
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
-      "2024-05-30": 1440,
-      "2024-05-29": 1440
+      "2024-05-30": 1440
     }
   },
   {
@@ -251,15 +250,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ip.angkasa.id.ico",
     "slug": "ip-angkasa",
     "status": "up",
-    "uptime": "33.24%",
-    "uptimeDay": "97.70%",
+    "uptime": "33.31%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "39.49%",
-    "time": 1249,
-    "timeDay": 1360,
-    "timeWeek": 1240,
-    "timeMonth": 1189,
+    "uptimeYear": "39.76%",
+    "time": 1250,
+    "timeDay": 1141,
+    "timeWeek": 1222,
+    "timeMonth": 1188,
     "timeYear": 1236,
     "dailyMinutesDown": {
       "2025-05-27": 33,
@@ -481,8 +480,7 @@
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
-      "2024-05-30": 1440,
-      "2024-05-29": 1440
+      "2024-05-30": 1440
     }
   },
   {
@@ -491,15 +489,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
-    "uptime": "60.99%",
+    "uptime": "61.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.77%",
-    "uptimeYear": "7.70%",
-    "time": 120,
-    "timeDay": 91,
-    "timeWeek": 92,
-    "timeMonth": 138,
+    "uptimeMonth": "97.06%",
+    "uptimeYear": "7.97%",
+    "time": 121,
+    "timeDay": 119,
+    "timeWeek": 97,
+    "timeMonth": 139,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2025-04-29": 1315,
@@ -836,8 +834,7 @@
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
-      "2024-05-30": 1440,
-      "2024-05-29": 1440
+      "2024-05-30": 1440
     }
   },
   {
@@ -846,18 +843,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
     "status": "up",
-    "uptime": "51.26%",
+    "uptime": "51.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 215,
-    "timeDay": 38,
-    "timeWeek": 264,
-    "timeMonth": 214,
-    "timeYear": 218,
+    "timeDay": 170,
+    "timeWeek": 277,
+    "timeMonth": 212,
+    "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-05-28": 27,
+      "2025-05-29": 27,
+      "2025-05-28": 1440,
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
@@ -1220,8 +1218,7 @@
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
-      "2024-05-30": 1440,
-      "2024-05-29": 1440
+      "2024-05-30": 1440
     }
   },
   {
@@ -1230,14 +1227,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "55.01%",
+    "uptime": "55.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "13.90%",
-    "time": 308,
-    "timeDay": 402,
-    "timeWeek": 250,
+    "uptimeYear": "14.17%",
+    "time": 309,
+    "timeDay": 306,
+    "timeWeek": 251,
     "timeMonth": 263,
     "timeYear": 316,
     "dailyMinutesDown": {
@@ -1553,8 +1550,7 @@
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
-      "2024-05-30": 1440,
-      "2024-05-29": 1440
+      "2024-05-30": 1440
     }
   },
   {
